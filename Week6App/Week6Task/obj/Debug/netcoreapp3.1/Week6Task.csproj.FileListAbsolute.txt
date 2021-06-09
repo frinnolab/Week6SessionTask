@@ -1,0 +1,13 @@
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\bin\Debug\netcoreapp3.1\Week6Task.exe
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\bin\Debug\netcoreapp3.1\Week6Task.deps.json
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\bin\Debug\netcoreapp3.1\Week6Task.runtimeconfig.json
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\bin\Debug\netcoreapp3.1\Week6Task.runtimeconfig.dev.json
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\bin\Debug\netcoreapp3.1\Week6Task.dll
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\bin\Debug\netcoreapp3.1\Week6Task.pdb
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.csprojAssemblyReference.cache
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.AssemblyInfoInputs.cache
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.AssemblyInfo.cs
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.csproj.CoreCompileInputs.cache
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.dll
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.pdb
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\WK6\WEEK6\Week6App\Week6Task\obj\Debug\netcoreapp3.1\Week6Task.genruntimeconfig.cache
